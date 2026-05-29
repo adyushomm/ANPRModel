@@ -16,3 +16,5 @@ You'd see a .venv file in your project folder after you agree to it. Incase the 
 To run the program type "streamlit run app.py". Now the program will succesfulluy run and you'd be redirected to your browser for output
 
 Go ahead and upload images of vehicles to extract their number plate details. Make sure the images are well lit are clearly visible. I have also added few images, feel free to use them
+
+Project Report: https://docs.google.com/document/d/1T7yjYyxGJbJx1zoU7sQPvySYBn7SSphv/edit?usp=sharing&ouid=116545288638278623396&rtpof=true&sd=true
